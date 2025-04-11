@@ -30,27 +30,6 @@ A user-friendly customer support platform that enables users to log in via Googl
 
 ---
 
-## 📂 Project Structure
-
-.
-├── backend
-│   ├── index.js
-│   ├── db.js
-│   ├── models
-│   │   └── Request.js
-│   └── .env
-├── frontend
-│   ├── src
-│   │   ├── App.js
-│   │   ├── Home.js
-│   │   ├── Dashboard.js
-│   │   └── index.js
-│   └── .env
-├── .gitignore
-├── README.md
-```
-
----
 
 ## ⚙️ Getting Started
 
