@@ -5,6 +5,10 @@ A user-friendly customer support platform that enables users to log in via Googl
 
 ---
 
+Uable To Host : Tries to host on Render but due to deployment delays and caching issues on the Render platform, I was unable to host the website within the 24-hour assignment window.
+
+---
+
 ## ✨ Features
 
 - 🔐 Google OAuth Login for easy authentication
